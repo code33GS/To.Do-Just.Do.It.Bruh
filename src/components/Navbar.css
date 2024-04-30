@@ -48,7 +48,7 @@ body {
     background-color: #00bfff;
 }
 
-@media (max-height:1500px) and (min-height:700px) {
+@media (max-height:950px) and (min-height:700px) {
 
     nav ul {
         height: 7vh;
