@@ -48,19 +48,6 @@ body {
     background-color: #00bfff;
 }
 
-@media (max-height:950px) and (min-height:700px) {
-
-    nav ul {
-        height: 7vh;
-    }
-    .tnb-links {
-        font-size: 2.5vh;
-    }    
-    .scl-icns {
-        font-size: 4vw;
-    }    
-}
-
 @media (max-width:500px) {
     nav ul {
         border: 0.2vh solid #ffffff;
